@@ -1,0 +1,13 @@
+[package]
+name = "steganogram"
+version = "0.0.1"
+edition = "2021"
+authors = [ "Glen De Cauwsemaecker" ]
+description = "A steganography library to hide secrets safely in art"
+homepage = "https://steganogram.art/"
+repository = "https://github.com/plabayo/steganogram"
+license = "GPL-3.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
